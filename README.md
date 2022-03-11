@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cristianoaraujodasilveira
+- 👀 I’m interested in data engine
+- 🌱 I’m currently learning azure event hub + azure data factory + databribks
+- 💞️ I seek to collaborate with projects in the data area
+- 📫 How to reach me https://www.linkedin.com/in/cristiano-araujo-silveira/
